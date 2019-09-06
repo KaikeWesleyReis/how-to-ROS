@@ -13,7 +13,7 @@ A *Service node* will be responsable to get your set point 2D and a *Publisher/S
 
 ![ts](https://user-images.githubusercontent.com/32513366/57415098-3999e000-71d1-11e9-9e18-c5f41697a4d8.gif)
    
-**Infos**:  Some parameters was essentials to create the commander node as the accepted errors (stop conditions) and they are
+**Info**:  Some parameters was essentials to create the commander node as the accepted errors (stop conditions) and they are
 - Accepted error for linear move: 0.05
 - Accepted error for angular rotation: 0.001
    
