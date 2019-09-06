@@ -1,7 +1,8 @@
 # ROS: Packages to Learn the basics!
 ![ros](https://user-images.githubusercontent.com/32513366/64451611-f5551880-d0ba-11e9-9aa2-ace23cd6f790.png)
 ## Simulation
-The content here use **turtlesim** as environment
+The content here use **turtlesim** as environment.
+
 ![turtlesim](https://user-images.githubusercontent.com/32513366/64451866-7ca28c00-d0bb-11e9-8668-27a047632d0d.png)
 
 ## Packages Overview
