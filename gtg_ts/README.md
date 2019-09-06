@@ -21,13 +21,8 @@ A *Service node* will be responsable to get SET POINT COORDINATE (your goal) in 
    
 ## HOW TO ...
 ### INSTALL THIS PACKAGE
-In your **src** folder from your catkin worspace, open a terminal:
-**FAZENDODDOSDAOASDO**
+In your **src** folder, open a terminal and follows:
 
-        > roscore
-        
-        > rosrun turtlesim turtlesim_node
-        
 
 ### RUN IN C++
 **(!)** For each line open a new terminal in your system
