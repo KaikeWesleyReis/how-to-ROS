@@ -20,11 +20,11 @@ A *Service node* will be responsable to get your set point 2D and a *Publisher/S
 **PS**: Using Python or C++ inevitably you will need to change something in *CMakeLists.txt* or *package.xml*. This is cover in ROS tutorials, but any questions that you have you can send here (or do reverse engineering in my files).
    
 ## HOW TO ...
-### INSTALL THIS PACKAGE
+### + INSTALL THIS PACKAGE
 In your **src** folder, open a terminal and follows:
 
 
-### RUN IN C++
+### + RUN IN C++
 **(!)** For each line open a new terminal in your system
 
         > roscore
@@ -40,7 +40,7 @@ In your **src** folder, open a terminal and follows:
         > rostopic echo /turtle1/pose #OPTIONAL - To see turtle postion in real time
 
 
-### RUN IN PYTHON
+### + RUN IN PYTHON
 **(!)** For each line open a new terminal in your system
 
         > roscore
