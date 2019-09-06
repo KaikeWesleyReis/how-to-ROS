@@ -7,7 +7,7 @@
 Written in **Python** and **C++**, this ROS package introduce a different way to understand a service/client and publisher/subscriber application in ROS from the basic tutorials that you can find here: http://wiki.ros.org/ROS/Tutorials. Given the major differences between C++ and python for ROS, this package was written in both languages. This allows the user to better understand major differences in creating ROS codes using one or another.
 
 ## Workflow
-A *Service node* will be responsable to get SET POINT COORDINATE (your goal) in (x,y) and a *Publisher/Subscriber/Client node* will order the turtle to destination through angular velocity using Manhattan Distance concept.
+A *Service node* will be responsable to get your set point 2D and a *Publisher/Subscriber/Client node* will order the turtle to your destination through angular velocity using **Manhattan Distance concept**.
 
 **Example**: The turtlesim usually start your turtle in (5.5,5.5). The gif bellow shows this package working for a set point equals to **(2,3)**.
 
