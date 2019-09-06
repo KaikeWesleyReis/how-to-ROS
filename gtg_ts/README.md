@@ -21,8 +21,15 @@ A *Service node* will be responsable to get your set point 2D and a *Publisher/S
    
 ## HOW TO ...
 ### + INSTALL THIS PACKAGE
-In your **src** folder, open a terminal and follows:
+First, you need to install this through terminal:
 ```
+sudo apt-get install subversion
+```
+After that, in a terminal in your src folder:
+```
+svn export https://github.com/KaikeWesleyReis/how-to-ROS/trunk/joy_ts
+cd ..
+catkin_make #or catkin build
 ```
 
 ### + RUN IN C++
