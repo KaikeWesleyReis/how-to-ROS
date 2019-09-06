@@ -26,9 +26,15 @@ sudo apt-get update
 sudo apt-get install xboxdrv
 ```
 ### + INSTALL THE PACKAGE
-In your **src folder**:
+First, you need to install this through terminal:
 ```
-
+sudo apt-get install subversion
+```
+After that, in a terminal in your **src folder**:
+```
+svn export https://github.com/KaikeWesleyReis/how-to-ROS/trunk/joy_ts
+cd ..
+catkin_make #or catkin build
 ```
 
 ### + RUN
