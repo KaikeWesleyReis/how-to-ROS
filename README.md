@@ -3,6 +3,8 @@
 ## Packages Overview
 - **gtg_ts**: This package provide a **Go to Goal** functionality upon the turtle using *python* or *C++*. The basics concepts from ROS communication is used here, i.e. *service & client* and *publisher & listener*.
 - **joy_ts**: This package provide a mannual control over the turtle using a **XBOX Joystick controller**.
+
+Each of this package contains a **README** that teachs how to install and how to use, beside the dependencies.
 ## Simulation
 The content here use **turtlesim** as environment.
 
