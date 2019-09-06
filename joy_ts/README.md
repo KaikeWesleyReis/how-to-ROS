@@ -15,14 +15,14 @@ Contains a Publisher/Subscriber node that takes commands from joystick and send 
 
 
 ## HOW TO 
-### INSTALL THE PACKAGE
+### + INSTALL THE PACKAGE
 **(!)** In your **src folder**:
 ```
   > roscore
 ```
 Besides that, you will need *xboxdrv* driver.
 
-### RUN
+### + RUN
 **(!)** for each line open a new terminal and follow:
 ```
   > roscore
